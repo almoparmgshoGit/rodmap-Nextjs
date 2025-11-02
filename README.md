@@ -85,6 +85,6 @@
 | الوسيلة | التفاصيل |
 |---------|----------|
 | ![WhatsApp](https://img.icons8.com/color/48/000000/whatsapp.png) WhatsApp | [اضغط للتواصل](https://wa.me/201234567890) |
-| ![Email](https://img.icons8.com/color/48/000000/email.png) البريد الإلكتروني | [ahmed@example.com](mailto:ahmedsmmeg@gmail.com) |
-| ![Paypal](https://img.icons8.com/color/48/000000/paypal.png) دعم المطور | [paypal.me/ahmedcoderx](https://paypal.me/ahmedcoderx) |
+| ![Email](https://img.icons8.com/color/48/000000/email.png) البريد الإلكتروني | [Gmail](mailto:ahmedsmmeg@gmail.com) |
+| ![Paypal](https://img.icons8.com/color/48/000000/paypal.png) دعم المطور | [PayPal](https://paypal.me/ahmedcoderx) |
 

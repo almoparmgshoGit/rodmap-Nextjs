@@ -16,7 +16,7 @@
 
 ---
 
-## ![Star](https://img.icons8.com/color/48/000000/star.png) ![Star](https://img.icons8.com/color/48/000000/star.png)  المستوى 2: متوسط / تفاعلي
+## ![Star](https://img.icons8.com/color/48/000000/star.png) المستوى 2: متوسط / تفاعلي
 **الهدف:** التفاعل مع البيانات الحية، فلترة، عرض أكثر من API، تحديث تلقائي.
 
 | المشروع | API | الإنجازات / المهارات المكتسبة |
@@ -27,7 +27,7 @@
 
 ---
 
-## ![Star](https://img.icons8.com/color/48/000000/star.png) ![Star](https://img.icons8.com/color/48/000000/star.png) ![Star](https://img.icons8.com/color/48/000000/star.png) المستوى 3: متقدم / مشاريع أكبر
+## ![Star](https://img.icons8.com/color/48/000000/star.png) المستوى 3: متقدم / مشاريع أكبر
 **الهدف:** دمج APIs متعددة، تحسين الأداء، تصميم تفاعلي، SSR/ISR.
 
 | المشروع | API | الإنجازات / المهارات المكتسبة |
@@ -38,7 +38,7 @@
 
 ---
 
-## ![Star](https://img.icons8.com/color/48/000000/star.png) ![Star](https://img.icons8.com/color/48/000000/star.png) ![Star](https://img.icons8.com/color/48/000000/star.png) ![Star](https://img.icons8.com/color/48/000000/star.png) المستوى 4: احترافي / أدوات وتقنيات متقدمة
+## ![Star](https://img.icons8.com/color/48/000000/star.png) المستوى 4: احترافي / أدوات وتقنيات متقدمة
 **الهدف:** مشاريع عملية، دمج الذكاء الصناعي، تحسين الأداء وتجربة المستخدم.
 
 | المشروع | API | الإنجازات / المهارات المكتسبة |
@@ -68,3 +68,9 @@
 2. أضف دائمًا ميزة صغيرة في كل مشروع (dark mode، حفظ بيانات محليًا، responsiveness).  
 3. ارفع كل مشروع على GitHub مع README مفصل لكل مشروع.  
 4. استخدم `.env.local` لتخزين مفاتيح الـAPI بشكل آمن.  
+
+---
+
+## ![Paypal](https://img.icons8.com/color/48/000000/paypal.png) دعم المطور
+إذا أعجبك المحتوى وودك تدعمني، تقدر التبرع عبر PayPal:  
+[paypal.me/ahmedcoderx](https://paypal.me/ahmedcoderx)
